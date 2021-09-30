@@ -130,7 +130,7 @@ The increase in "bring your own device" and work from home policies and the grow
 * Do the inventory in services your organization relies on, such as Azure, Intune, or Dynamics 365.
 * Ensure that your accounts that are used for administration purposes:
 
-  * Have working email addresses attached to them
+  * Have working alternate email addresses attached to them
   * Have registered for Azure AD Multi-Factor Authentication or use MFA on-premises
 * Ask users for their business justification for administrative access.
 * Remove administrator access for those individuals and services that don't need it.
